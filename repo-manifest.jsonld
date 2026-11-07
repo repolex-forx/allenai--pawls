@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/pawls/commit/1a201c6cbb1b35fe39db4708cf70f08c00b7867c",
       "git:hexsha": "1a201c6cbb1b35fe39db4708cf70f08c00b7867c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:29:41.614573+00:00"
     }
   ]
 }
