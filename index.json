@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "pawls",
+  "versions": [
+    {
+      "commit": "1a201c6cbb1b35fe39db4708cf70f08c00b7867c",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:29:41.614988+00:00"
+    }
+  ]
+}
